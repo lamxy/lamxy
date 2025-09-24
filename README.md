@@ -1,5 +1,5 @@
-# Hi, I'm lamxy
-## I'm a developer focused on high-performance Go frameworks, cloud-native and modular architecture. 
+## Hi, I'm lamxy
+### I'm a developer focused on high-performance Go frameworks, cloud-native and modular architecture. 
 - My interests include:
 
 ![Fiber](https://img.shields.io/badge/Fiber-v2.x-00C7B7)
@@ -12,8 +12,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Document%20DB-47A248?logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search%20%26%20Analytics-005571?logo=elasticsearch)
 
-## Contact: pytho5170@hotmail.com
+### Contact: pytho5170@hotmail.com
 
-## Open source project: 
+### Open source project: 
   - [FiberHouse — a high-performance, extensible, ready-to-use Go web framework](https://github.com/lamxy/fiberhouse)  
   - If you find FiberHouse helpful, consider giving a \*\*Star\*\* on `lamxy/fiberhouse`.
