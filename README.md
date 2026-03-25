@@ -11,7 +11,7 @@
 ![Redis](https://img.shields.io/badge/Redis-Cache%20%26%20Queue-DC382D?logo=redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Document%20DB-47A248?logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search%20%26%20Analytics-005571?logo=elasticsearch)
-![More](https://img.shields.io/badge/More-%E2%8F%B1%EF%B8%8F%20AI-vibe-coding-related-FFB86B)
+![More](https://img.shields.io/badge/More-%E2%8F%B1%EF%B8%8F%20vibe%20coding-FFB86B)
 
 ### Contact: pytho5170@hotmail.com
 
