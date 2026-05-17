@@ -1,5 +1,5 @@
 ## Hi, I'm lamxy
-### I am a go developer interested in high-performance Go frameworks, cloud-native technologies, and modular architecture. 
+### I am a go developer interested in high-performance Go frameworks, cloud-native technologies, and modular architecture, and vibe coding. 
 - My interests include:
 
 ![Fiber](https://img.shields.io/badge/Fiber-v2.x-00C7B7)
